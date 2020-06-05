@@ -28,13 +28,6 @@ async function main() {
     console.log("number of real chars:", chars.length);
 }
 
-function stringToBinary(string) {
-    // char.split("").map(chr => 
-    // chr.charCodeAt(0).toString(2).padStart(16, "0")).join(" ");
-    let chunks = [];
-    for (let i = 0; i < 
-}
-
 function bufferToBinary(buffer) {
     let chunks = [];
     for (let i = 0; i < buffer.length; i++) {
