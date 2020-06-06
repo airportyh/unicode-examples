@@ -5,6 +5,10 @@ string encodings at play. In particular, the
 results of encoding the same string sequence from a file
 in UTF-8, UTF-16 LE, and UTF-32 are displayed.
 
+## Video
+
+Watch this [video "How Strings Actually Work - with guest Huiqi Zhou"](https://www.youtube.com/watch?v=9iTyP3xVAmQ) for more explanation.
+
 ## Resources
 
 * ["Characters, Symbols and the Unicode Miracle - Computerphile"](https://www.youtube.com/watch?v=MijmeoH9LT4)
